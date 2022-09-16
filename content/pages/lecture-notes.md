@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of readings assigned from the course text
+  and supplemented by original notes by Prof. Helgason.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -119,7 +121,7 @@ Conformal maps; linear transformations: analytic functions and elementary geomet
 Ahlfors, pp. 69-80
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9c43e823-d8da-5677-99b5-e3b334c71693 "PDF" %}})
+({{% resource_link 9c43e823-d8da-5677-99b5-e3b334c71693 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +151,7 @@ Line integrals: path independence and its equivalence to the existence of a prim
 Ahlfors, pp. 101-108
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e9fd84fd-2ff0-91ae-10ba-f7a9580c003b "PDF" %}})
+({{% resource_link e9fd84fd-2ff0-91ae-10ba-f7a9580c003b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

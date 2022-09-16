@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This exams section provides the two in-class tests and the final exam
+  along with solutions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

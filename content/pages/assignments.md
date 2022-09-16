@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section provides the list of assignments drawn from the
+  course text along with solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
